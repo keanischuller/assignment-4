@@ -1,0 +1,86 @@
+---
+date: 2024-02-01
+output: pdf_document
+title: Assignment 4
+---
+
+### Summarize its main finding in 2-3 sentences, using your own understanding and language.
+
+The research paper's goal was to find out how discrimination in the
+workplace affects minority employees, focused on mainly African cashiers
+working in French grocery stores. By using an Implicit Association Test
+and difference-in-difference testing, they found that minority cashiers
+do in fact perform worse, for example having slower scanning speed and
+higher absences, when working with managers who have a bias against
+their minority group. They found that a manager's discriminatory beliefs
+can directly impact their minority employees' job performance, leading
+to a self-fulfilling prophecy where if they believe that they'll perform
+worse, the employee will actually perform worse.
+
+### Comment on the research design of the paper. Which of the tools described in the Mastering Econometrics videos did they use? How did they use them?
+
+Of all the tools described in the Mastering Econometrics videos, the
+tool most evidently used is differences-in-differences research design.
+This method is used to estimate causal effects by comparing the
+before-and-after differences in outcomes between a treatment group and a
+control group, in this case, minority employees working under
+discriminatory versus non-discriminatory managers. The
+differences-in-differences approach is a key tool for identifying causal
+relationships when RCTs are not feasible, which in this case is
+evidently not used since there's no randomization. This method allowed
+the researchers to make a stronger argument about the causal impact of
+managerial bias on minority workers' performance.
+
+### Comment on any possible remaining threats to inference that may result from measurement or implementation problems likely encountered by the researchers.
+
+• The reliance on Implicit Association Test (IAT) scores to determine
+managerial bias might not accurately capture all aspects of bias. Any
+test has its limitations and the IAT is no exception, so it may not
+fully capture all real-world discriminatory behaviors that someone can
+exhibit.
+
+• There could be unobserved variables that influence both the assignment
+of managers to stores and the performance of cashiers, leading to biased
+estimates.
+
+• The study's findings in the specific context of French grocery stores
+might not apply to other settings or industries since it is a very
+specific case in only one country.
+
+• Changes in external factors over time that aren't accounted for in the
+study could affect cashier performance independently of managerial bias.
+
+• If the assignment of managers to stores is influenced by factors
+related to cashier performance, this could confound the results.
+
+• The study might not fully account for the interactions between manager
+and cashier characteristics beyond ethnic background that can also cause
+their behaviours.
+
+### Think about patent examiners now. If you were to try to establish why examiners leave the USPTO, what could be one causal hypothesis to test? (Hint: Think about many of the reasons certain workers may leave and pick one that you would like to test.)
+
+Based on the information known about the USPTO, one possible reason why
+examiners leave is due to a lack of career advancement opportunities.
+Career progression is a significant motivator for many employees. If
+patent examiners think that there are limited opportunities for
+advancement or professional development within the USPTO, it could lead
+to decreased job satisfaction and increased likelihood of looking for
+opportunities elsewhere. This is particularly relevant in a niche field
+like patent examination, where the skills are highly specific and the
+path to higher positions might seem limited. To see if this was the
+case, research was done on the USPTO's Glassdoor. Here, there were a few
+posts whose Cons for working at the USPTO was that they couldn't see
+what their future could be based on the type of jobs that the USPTO
+provided (Glassdoor, 2024).
+
+As such, the causal hypothesis to test would be the following: Patent
+examiners at the USPTO are more likely to leave due to perceived limited
+opportunities for career advancement and professional growth within the
+organization.
+
+This would be our alternative hypothesis (H1) to the null hypothesis
+(H0) which would be that patent examiners at the USPTO don't leave due
+to perceived limited opportunities for career advancement.
+
+US Patent and Trademark Office Reviews. (2024). Retrieved from
+https://www.glassdoor.ca/Reviews/US-Patent-and-Trademark-Office-Reviews-E41351.htm
